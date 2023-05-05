@@ -1,0 +1,27 @@
+.contenedor-recetas{
+    width: 90%;
+    height: 400px;
+    border: 2px solid black;
+    margin: 20px auto;
+    padding: 2%;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: auto;
+}
+
+.menu-item{
+    width: 30%;
+    height: 250px;
+    border: 2px solid black;
+    margin: 2% auto;
+}
+
+.menu-detalle{
+    width: 90%;
+    height: 400px;
+    border: 2px solid black;
+    margin: 2% auto;
+    text-align: center;
+}
